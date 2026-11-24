@@ -334,9 +334,6 @@ function App() {
             <figure className="greeting-card greeting-card-main">
               <img src="/images/christmas.jpg" alt="Merry Christmas — Season's Greetings from Clifton Cleare-Francis, Councilor for Pineridge" />
             </figure>
-            <figure className="greeting-card">
-              <img src="/images/flyer-reelect.jpg" alt="The Choice Is Still Cleare — Re-Elect Clifton Cleare-Francis, 27 June 2027" />
-            </figure>
           </div>
         </div>
       </section>
